@@ -1,6 +1,8 @@
 # さっぽろパパママMAPについて
 ========
 
+[![Join the chat at https://gitter.im/openkawasaki/papamama](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/openkawasaki/papamama?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 札幌市内に点在する保育所（認可、認可外）、幼稚園の位置・定員情報をマッピングした地図を作成しています。
 
 ## 利用している地図について
