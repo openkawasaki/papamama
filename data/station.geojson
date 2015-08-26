@@ -90,6 +90,26 @@
             "type": "Feature",
             "properties": { "Id": 0, "N02_001": "11", "N02_002": "2", "line": "南武線", "company": "東日本旅客鉄道", "station_name": "稲田堤駅", "shubetsu": "JR東日本", "lon": 139.535262, "lat": 35.633645 },
             "geometry": { "type": "Point", "coordinates": [ 139.535262, 35.633645 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "11", "N02_002": "2", "line": "鶴見線", "company": "東日本旅客鉄道", "station_name": "武蔵白石駅", "shubetsu": "JR東日本", "lon": 139.705832, "lat": 35.501712 },
+            "geometry": { "type": "Point", "coordinates": [ 139.705832, 35.501712 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "11", "N02_002": "2", "line": "鶴見線", "company": "東日本旅客鉄道", "station_name": "浜川崎駅", "shubetsu": "JR東日本", "lon": 139.713484, "lat": 35.510414 },
+            "geometry": { "type": "Point", "coordinates": [ 139.713484, 35.510414 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "11", "N02_002": "2", "line": "鶴見線", "company": "東日本旅客鉄道", "station_name": "昭和駅", "shubetsu": "JR東日本", "lon": 139.724036, "lat": 35.506503 },
+            "geometry": { "type": "Point", "coordinates": [ 139.724036, 35.506503 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "11", "N02_002": "2", "line": "鶴見線", "company": "東日本旅客鉄道", "station_name": "扇町駅", "shubetsu": "JR東日本", "lon": 139.72242, "lat": 35.501376 },
+            "geometry": { "type": "Point", "coordinates": [ 139.72242, 35.501376 ] }
         }
     ]
 }
