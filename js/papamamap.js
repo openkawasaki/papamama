@@ -200,7 +200,7 @@ Papamamap.prototype.addNurseryFacilitiesLayer = function(facilitiesData)
                 object: facilitiesData
             }),
             name: 'layerOnakama',
-            style: OnakamaStyleFunction
+            style: onakamaStyleFunction
         })
     );
     // 川崎認定保育園
