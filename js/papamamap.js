@@ -150,10 +150,13 @@ Papamamap.prototype.animatedMove = function(lon, lat, isTransform)
  */
 Papamamap.prototype.addNurseryFacilitiesLayer = function(facilitiesData)
 {
-    if(this.map.getLayers().getLength() >= 4) {
-        this.map.removeLayer(this.map.getLayers().item(4));
-        this.map.removeLayer(this.map.getLayers().item(4));
-        this.map.removeLayer(this.map.getLayers().item(4));
+    if(this.map.getLayers().getLength() >= 7) {
+        this.map.removeLayer(this.map.getLayers().item(7));
+        this.map.removeLayer(this.map.getLayers().item(7));
+        this.map.removeLayer(this.map.getLayers().item(7));
+        this.map.removeLayer(this.map.getLayers().item(7));
+        this.map.removeLayer(this.map.getLayers().item(7));
+        this.map.removeLayer(this.map.getLayers().item(7));
     }
 
     // 幼稚園
@@ -187,6 +190,39 @@ Papamamap.prototype.addNurseryFacilitiesLayer = function(facilitiesData)
             }),
             name: 'layerNinka',
             style: ninkaStyleFunction
+        })
+    );
+    // おなかま保育室
+    this.map.addLayer(
+        new ol.layer.Vector({
+            source: new ol.source.GeoJSON({
+                projection: 'EPSG:3857',
+                object: facilitiesData
+            }),
+            name: 'layerOnakama',
+            style: OnakamaStyleFunction
+        })
+    );
+    // 川崎認定保育園
+    this.map.addLayer(
+        new ol.layer.Vector({
+            source: new ol.source.GeoJSON({
+                projection: 'EPSG:3857',
+                object: facilitiesData
+            }),
+            name: 'layerKawasakiNintei',
+            style: kawasakiNinteiStyleFunction
+        })
+    );
+    // 地域保育園
+    this.map.addLayer(
+        new ol.layer.Vector({
+            source: new ol.source.GeoJSON({
+                projection: 'EPSG:3857',
+                object: facilitiesData
+            }),
+            name: 'layerChiiki',
+            style: chiikiStyleFunction
         })
     );
 };
