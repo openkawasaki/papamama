@@ -1092,6 +1092,9 @@
           35.55135
         ]
       }
-    }
+    },
+    { "type": "Feature", "properties": { "HID": 3001, "Type": "川崎認定保育園", "Kodomo": null, "Name": "エンジェルキッズ川崎園", "Label": "エンジェルキッズ川崎園", "AgeS": null, "AgeE": null, "Full": null, "Open": null, "Close": null, "H24": null, "Memo": null, "Extra": null, "Temp": null, "Holiday": null, "Night": null, "Add1": "川崎市川崎区", "Add2": "追分町2-2-201", "TEL": null, "FAX": null, "Owner": null, "Ownership": null, "Proof": null, "Shanai": null, "Y": "35.520771", "X": "139.713503", "url": null, "Vacancy": null, "VacancyDate": null}, "geometry": { "type": "Point", "coordinates": [139.713503, 35.520771] } },
+    { "type": "Feature", "properties": { "HID": 4001, "Type": "おなかま保育室", "Kodomo": null, "Name": "おなかま保育室川中島", "Label": "おなかま保育室川中島", "AgeS": null, "AgeE": null, "Full": null, "Open": null, "Close": null, "H24": null, "Memo": null, "Extra": null, "Temp": null, "Holiday": null, "Night": null, "Add1": "川崎市川崎区", "Add2": "大師駅前1-1-2", "TEL": null, "FAX": null, "Owner": null, "Ownership": null, "Proof": null, "Shanai": null, "Y": "35.5336804", "X": "139.7250935", "url": null, "Vacancy": null, "VacancyDate": null}, "geometry": { "type": "Point", "coordinates": [139.7250935, 35.5336804] } },
+    { "type": "Feature", "properties": { "HID": 5001, "Type": "地域保育園", "Kodomo": null, "Name": "ミルキーホーム川崎園", "Label": "ミルキーホーム川崎園", "AgeS": null, "AgeE": null, "Full": null, "Open": null, "Close": null, "H24": null, "Memo": null, "Extra": null, "Temp": null, "Holiday": null, "Night": null, "Add1": "川崎市川崎区", "Add2": "川崎区東田町2-10　ホワイトガーデン東田1F", "TEL": null, "FAX": null, "Owner": null, "Ownership": null, "Proof": null, "Shanai": null, "Y": "35.527773", "X": "139.701893", "url": null, "Vacancy": null, "VacancyDate": null}, "geometry": { "type": "Point", "coordinates": [139.701893, 35.527773] } }
   ]
 }
