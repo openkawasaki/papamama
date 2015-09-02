@@ -210,6 +210,22 @@ $('#mainPage').on('pageshow', function() {
 		papamamap.switchLayer(this.id, $(this).prop('checked'));
 	});
 
+	// 川崎認定保育園チェックボックスのイベント設定
+	$('#cbKawasakiNintei').click(function() {
+		papamamap.switchLayer(this.id, $(this).prop('checked'));
+	});
+
+	// おなかま保育所チェックボックスのイベント設定
+	$('#cbOnakama').click(function() {
+		papamamap.switchLayer(this.id, $(this).prop('checked'));
+	});
+
+	// 地域保育園チェックボックスのイベント設定
+	$('#cbChiiki').click(function() {
+		papamamap.switchLayer(this.id, $(this).prop('checked'));
+	});
+
+
 	// 中学校区チェックボックスのイベント定義
 	$('#cbMiddleSchool').click(function() {
 		layer = map.getLayers().item(1);
