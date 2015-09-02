@@ -265,6 +265,27 @@
             "type": "Feature",
             "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急小田原線", "company": "小田急電鉄株式会社", "station_name": "柿生駅", "shubetsu": "小田急電鉄", "lon": 139.497945, "lat": 35.589831 },
             "geometry": { "type": "Point", "coordinates": [ 139.497945, 35.589831 ] }
+        },
+
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急多摩線", "company": "小田急電鉄株式会社", "station_name": "五月台駅", "shubetsu": "小田急電鉄", "lon": 139.49365, "lat": 35.600138 },
+            "geometry": { "type": "Point", "coordinates": [ 139.49365, 35.600138 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急多摩線", "company": "小田急電鉄株式会社", "station_name": "栗平駅", "shubetsu": "小田急電鉄", "lon": 139.480903, "lat": 35.605992 },
+            "geometry": { "type": "Point", "coordinates": [ 139.480903, 35.605992 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急多摩線", "company": "小田急電鉄株式会社", "station_name": "黒川駅", "shubetsu": "小田急電鉄", "lon": 139.470778, "lat": 35.613159 },
+            "geometry": { "type": "Point", "coordinates": [ 139.470778, 35.613159 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急多摩線", "company": "小田急電鉄株式会社", "station_name": "はるひ野駅", "shubetsu": "小田急電鉄", "lon": 139.464534, "lat": 35.618885 },
+            "geometry": { "type": "Point", "coordinates": [ 139.464534, 35.618885 ] }
         }
 
     ]
