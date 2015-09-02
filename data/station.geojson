@@ -230,6 +230,41 @@
             "type": "Feature",
             "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急大井町", "company": "東京急行電鉄株式会社", "station_name": "溝の口駅", "shubetsu": "東急電鉄", "lon": 139.610626, "lat": 35.600032 },
             "geometry": { "type": "Point", "coordinates": [ 139.610626, 35.600032 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急小田原線", "company": "小田急電鉄株式会社", "station_name": "登戸駅", "shubetsu": "小田急電鉄", "lon": 139.569912, "lat": 35.620783 },
+            "geometry": { "type": "Point", "coordinates": [ 139.569912, 35.620783 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急小田原線", "company": "小田急電鉄株式会社", "station_name": "向ヶ丘遊園駅", "shubetsu": "小田急電鉄", "lon": 139.56483, "lat": 35.617554 },
+            "geometry": { "type": "Point", "coordinates": [ 139.56483, 35.617554 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急小田原線", "company": "小田急電鉄株式会社", "station_name": "生田駅", "shubetsu": "小田急電鉄", "lon": 139.542215, "lat": 35.615015 },
+            "geometry": { "type": "Point", "coordinates": [ 139.542215, 35.615015 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急小田原線", "company": "小田急電鉄株式会社", "station_name": "読売ランド前駅", "shubetsu": "小田急電鉄", "lon": 139.52825, "lat": 35.614632 },
+            "geometry": { "type": "Point", "coordinates": [ 139.52825, 35.614632 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急小田原線", "company": "小田急電鉄株式会社", "station_name": "百合ヶ丘駅", "shubetsu": "小田急電鉄", "lon": 139.516301, "lat": 35.60911 },
+            "geometry": { "type": "Point", "coordinates": [ 139.516301, 35.60911 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急小田原線", "company": "小田急電鉄株式会社", "station_name": "新百合ヶ丘駅", "shubetsu": "小田急電鉄", "lon": 139.507605, "lat": 35.603805 },
+            "geometry": { "type": "Point", "coordinates": [ 139.507605, 35.603805 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急小田原線", "company": "小田急電鉄株式会社", "station_name": "柿生駅", "shubetsu": "小田急電鉄", "lon": 139.497945, "lat": 35.589831 },
+            "geometry": { "type": "Point", "coordinates": [ 139.497945, 35.589831 ] }
         }
 
     ]
