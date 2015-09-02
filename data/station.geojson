@@ -115,6 +115,122 @@
             "type": "Feature",
             "properties": { "Id": 0, "N02_001": "11", "N02_002": "2", "line": "鶴見線", "company": "東日本旅客鉄道", "station_name": "大川駅", "shubetsu": "JR東日本", "lon": 139.711082, "lat": 35.495555 },
             "geometry": { "type": "Point", "coordinates": [ 139.711082, 35.495555 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "京急本線", "company": "京浜急行電鉄株式会社", "station_name": "京急川崎駅", "shubetsu": "京浜急行電鉄", "lon": 139.700896, "lat": 35.532833 },
+            "geometry": { "type": "Point", "coordinates": [ 139.700896, 35.532833 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "京急本線", "company": "京浜急行電鉄株式会社", "station_name": "八丁畷駅", "shubetsu": "京浜急行電鉄", "lon": 139.691488, "lat": 35.523113 },
+            "geometry": { "type": "Point", "coordinates": [ 139.691488, 35.523113 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "京急大師線", "company": "京浜急行電鉄株式会社", "station_name": "京急川崎駅", "shubetsu": "京浜急行電鉄", "lon": 139.700896, "lat": 35.532833 },
+            "geometry": { "type": "Point", "coordinates": [ 139.700896, 35.532833 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "京急大師線", "company": "京浜急行電鉄株式会社", "station_name": "港町駅", "shubetsu": "京浜急行電鉄", "lon": 139.712283, "lat": 35.534964 },
+            "geometry": { "type": "Point", "coordinates": [ 139.712283, 35.534964 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "京急大師線", "company": "京浜急行電鉄株式会社", "station_name": "鈴木町駅", "shubetsu": "京浜急行電鉄", "lon": 139.72038, "lat": 35.53535 },
+            "geometry": { "type": "Point", "coordinates": [ 139.72038, 35.53535 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "京急大師線", "company": "京浜急行電鉄株式会社", "station_name": "川崎大師駅", "shubetsu": "京浜急行電鉄", "lon": 139.726168, "lat": 35.53565 },
+            "geometry": { "type": "Point", "coordinates": [ 139.726168, 35.53565 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "京急大師線", "company": "京浜急行電鉄株式会社", "station_name": "東門前駅", "shubetsu": "京浜急行電鉄", "lon": 139.734371, "lat": 35.536639 },
+            "geometry": { "type": "Point", "coordinates": [ 139.734371, 35.536639 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "京急大師線", "company": "京浜急行電鉄株式会社", "station_name": "産業道路駅", "shubetsu": "京浜急行電鉄", "lon": 139.740859, "lat": 35.536689 },
+            "geometry": { "type": "Point", "coordinates": [ 139.740859, 35.536689 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "京急大師線", "company": "京浜急行電鉄株式会社", "station_name": "小島新田駅", "shubetsu": "京浜急行電鉄", "lon": 139.748003, "lat": 35.534734 },
+            "geometry": { "type": "Point", "coordinates": [ 139.748003, 35.534734 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急東横線", "company": "東京急行電鉄株式会社", "station_name": "新丸子駅", "shubetsu": "東急電鉄", "lon": 139.661919, "lat": 35.580626 },
+            "geometry": { "type": "Point", "coordinates": [ 139.661919, 35.580626 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急東横線", "company": "東京急行電鉄株式会社", "station_name": "武蔵小杉駅", "shubetsu": "東急電鉄", "lon": 139.659664, "lat": 35.575741 },
+            "geometry": { "type": "Point", "coordinates": [ 139.659664, 35.575741 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急東横線", "company": "東京急行電鉄株式会社", "station_name": "元住吉駅", "shubetsu": "東急電鉄", "lon": 139.654046, "lat": 35.56432 },
+            "geometry": { "type": "Point", "coordinates": [ 139.654046, 35.56432 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急目黒線", "company": "東京急行電鉄株式会社", "station_name": "新丸子駅", "shubetsu": "東急電鉄", "lon": 139.661919, "lat": 35.580626 },
+            "geometry": { "type": "Point", "coordinates": [ 139.661919, 35.580626 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急目黒線", "company": "東京急行電鉄株式会社", "station_name": "武蔵小杉駅", "shubetsu": "東急電鉄", "lon": 139.659664, "lat": 35.575741 },
+            "geometry": { "type": "Point", "coordinates": [ 139.659664, 35.575741 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急目黒線", "company": "東京急行電鉄株式会社", "station_name": "元住吉駅", "shubetsu": "東急電鉄", "lon": 139.654046, "lat": 35.56432 },
+            "geometry": { "type": "Point", "coordinates": [ 139.654046, 35.56432 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急田園都市線", "company": "東京急行電鉄株式会社", "station_name": "二子新地駅", "shubetsu": "東急電鉄", "lon": 139.622399, "lat": 35.607125 },
+            "geometry": { "type": "Point", "coordinates": [ 139.622399, 35.607125 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急田園都市線", "company": "東京急行電鉄株式会社", "station_name": "高津駅", "shubetsu": "東急電鉄", "lon": 139.61747, "lat": 35.603548 },
+            "geometry": { "type": "Point", "coordinates": [ 139.61747, 35.603548 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急田園都市線", "company": "東京急行電鉄株式会社", "station_name": "溝の口駅", "shubetsu": "東急電鉄", "lon": 139.610626, "lat": 35.600032 },
+            "geometry": { "type": "Point", "coordinates": [ 139.610626, 35.600032 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急田園都市線", "company": "東京急行電鉄株式会社", "station_name": "梶が谷駅", "shubetsu": "東急電鉄", "lon": 139.606008, "lat": 35.594102 },
+            "geometry": { "type": "Point", "coordinates": [ 139.606008, 35.594102 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急田園都市線", "company": "東京急行電鉄株式会社", "station_name": "宮崎台駅", "shubetsu": "東急電鉄", "lon": 139.591349, "lat": 35.587325 },
+            "geometry": { "type": "Point", "coordinates": [ 139.591349, 35.587325 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急田園都市線", "company": "東京急行電鉄株式会社", "station_name": "宮前平駅", "shubetsu": "東急電鉄", "lon": 139.581919, "lat": 35.584945 },
+            "geometry": { "type": "Point", "coordinates": [ 139.581919, 35.584945 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急田園都市線", "company": "東京急行電鉄株式会社", "station_name": "鷺沼駅", "shubetsu": "東急電鉄", "lon": 139.573018, "lat": 35.579579 },
+            "geometry": { "type": "Point", "coordinates": [ 139.573018, 35.579579 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "東急大井町", "company": "東京急行電鉄株式会社", "station_name": "溝の口駅", "shubetsu": "東急電鉄", "lon": 139.610626, "lat": 35.600032 },
+            "geometry": { "type": "Point", "coordinates": [ 139.610626, 35.600032 ] }
         }
+
     ]
 }
