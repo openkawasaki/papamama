@@ -286,6 +286,17 @@
             "type": "Feature",
             "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "小田急多摩線", "company": "小田急電鉄株式会社", "station_name": "はるひ野駅", "shubetsu": "小田急電鉄", "lon": 139.464534, "lat": 35.618885 },
             "geometry": { "type": "Point", "coordinates": [ 139.464534, 35.618885 ] }
+        },
+
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "京王相模原線", "company": "京王電鉄株式会社", "station_name": "京王稲田堤駅", "shubetsu": "京王電鉄", "lon": 139.531099, "lat": 35.633895 },
+            "geometry": { "type": "Point", "coordinates": [ 139.531099, 35.633895 ] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Id": 0, "N02_001": "12", "N02_002": "4", "line": "京王相模原線", "company": "京王電鉄株式会社", "station_name": "若葉台駅", "shubetsu": "京王電鉄", "lon": 139.4724, "lat": 35.619278 },
+            "geometry": { "type": "Point", "coordinates": [ 139.4724, 35.619278 ] }
         }
 
     ]
