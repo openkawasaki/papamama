@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1001",
+        "HID": "33",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "古川保育園",
@@ -43,7 +43,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1002",
+        "HID": "34",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "北加瀬保育園",
@@ -82,7 +82,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1003",
+        "HID": "35",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "小倉保育園",
@@ -121,7 +121,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1004",
+        "HID": "36",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "河原町保育園",
@@ -160,7 +160,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1005",
+        "HID": "37",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "南加瀬保育園",
@@ -199,7 +199,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1006",
+        "HID": "38",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "南河原保育園",
@@ -238,7 +238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1007",
+        "HID": "39",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "小向保育園",
@@ -277,7 +277,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1008",
+        "HID": "40",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "夢見ヶ崎保育園",
@@ -316,7 +316,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1009",
+        "HID": "41",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "塚越保育園",
@@ -355,7 +355,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1010",
+        "HID": "42",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "YMCAかわさき保育園",
@@ -394,7 +394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1011",
+        "HID": "43",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "アスク川崎西口保育園",
@@ -433,7 +433,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1012",
+        "HID": "44",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "どりーむ保育園",
@@ -472,7 +472,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1013",
+        "HID": "45",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "保育園フェリチッタ",
@@ -511,7 +511,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1014",
+        "HID": "46",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "つくし保育園",
@@ -550,7 +550,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1015",
+        "HID": "47",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "にじいろ保育園新川崎",
@@ -589,7 +589,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1016",
+        "HID": "48",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "ふくじゅ保育園",
@@ -628,7 +628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1017",
+        "HID": "49",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "新川崎もりのこ保育園",
@@ -667,7 +667,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1018",
+        "HID": "50",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "小学館アカデミー南さいわい町保育園",
@@ -706,7 +706,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1019",
+        "HID": "51",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "鹿島田もりのこ保育園",
@@ -745,7 +745,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1020",
+        "HID": "52",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "どりーむ東小倉保育園",
@@ -784,7 +784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1021",
+        "HID": "53",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "かわの風保育園",
@@ -823,7 +823,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1022",
+        "HID": "54",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "ゲートタワーローズ保育園",
@@ -862,7 +862,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1023",
+        "HID": "55",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "日生夢見ヶ崎保育園ひびき",
@@ -901,7 +901,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1024",
+        "HID": "56",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "日生鹿島田保育園ひびき",
@@ -940,7 +940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1025",
+        "HID": "57",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "小倉にこにこ保育園",
@@ -979,7 +979,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1026",
+        "HID": "58",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "わらべうた幸町保育園",
@@ -1018,7 +1018,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1027",
+        "HID": "59",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "キディ古市場保育園",
@@ -1057,7 +1057,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "1028",
+        "HID": "60",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "小学館アカデミーかしまだ保育園",
@@ -1093,8 +1093,3593 @@
         ]
       }
     },
-    { "type": "Feature", "properties": { "HID": 3001, "Type": "川崎認定保育園", "Kodomo": null, "Name": "エンジェルキッズ川崎園", "Label": "エンジェルキッズ川崎園", "AgeS": null, "AgeE": null, "Full": null, "Open": null, "Close": null, "H24": null, "Memo": null, "Extra": null, "Temp": null, "Holiday": null, "Night": null, "Add1": "川崎市川崎区", "Add2": "追分町2-2-201", "TEL": null, "FAX": null, "Owner": null, "Ownership": null, "Proof": null, "Shanai": null, "Y": "35.520771", "X": "139.713503", "url": null, "Vacancy": null, "VacancyDate": null}, "geometry": { "type": "Point", "coordinates": [139.713503, 35.520771] } },
-    { "type": "Feature", "properties": { "HID": 4001, "Type": "おなかま保育室", "Kodomo": null, "Name": "おなかま保育室川中島", "Label": "おなかま保育室川中島", "AgeS": null, "AgeE": null, "Full": null, "Open": null, "Close": null, "H24": null, "Memo": null, "Extra": null, "Temp": null, "Holiday": null, "Night": null, "Add1": "川崎市川崎区", "Add2": "大師駅前1-1-2", "TEL": null, "FAX": null, "Owner": null, "Ownership": null, "Proof": null, "Shanai": null, "Y": "35.5336804", "X": "139.7250935", "url": null, "Vacancy": null, "VacancyDate": null}, "geometry": { "type": "Point", "coordinates": [139.7250935, 35.5336804] } },
-    { "type": "Feature", "properties": { "HID": 5001, "Type": "地域保育園", "Kodomo": null, "Name": "ミルキーホーム川崎園", "Label": "ミルキーホーム川崎園", "AgeS": null, "AgeE": null, "Full": null, "Open": null, "Close": null, "H24": null, "Memo": null, "Extra": null, "Temp": null, "Holiday": null, "Night": null, "Add1": "川崎市川崎区", "Add2": "川崎区東田町2-10　ホワイトガーデン東田1F", "TEL": null, "FAX": null, "Owner": null, "Ownership": null, "Proof": null, "Shanai": null, "Y": "35.527773", "X": "139.701893", "url": null, "Vacancy": null, "VacancyDate": null}, "geometry": { "type": "Point", "coordinates": [139.701893, 35.527773] } }
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "152",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "向丘保育園 ",
+        "Label": "",
+        "AgeS": "3歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "南平台4-2",
+        "TEL": "044-977-3343",
+        "FAX": "044-977-3343",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031252.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5697,
+          35.59253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "153",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "向丘乳児保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "3歳",
+        "Full": "35",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "南平台4-2",
+        "TEL": "044-977-3344",
+        "FAX": "044-977-3343",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031257.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5697,
+          35.59253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "154",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "有馬保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "東有馬5-16-1",
+        "TEL": "044-888-3751",
+        "FAX": "044-888-3751",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031263.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5953,
+          35.56814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "155",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "菅生保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "初山1-23-15",
+        "TEL": "044-977-9320",
+        "FAX": "044-977-9320",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031275.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5612,
+          35.59707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "156",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "南菅生保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "菅生4-4-1",
+        "TEL": "044-977-4164",
+        "FAX": "044-977-4164",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031283.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5541,
+          35.59216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "157",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "平保育園 ",
+        "Label": "",
+        "AgeS": "4ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "平2-13-1",
+        "TEL": "044-865-1031",
+        "FAX": "044-865-1031",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031290.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5748,
+          35.60197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "158",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "中有馬保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "有馬3-2-10",
+        "TEL": "044-854-0425",
+        "FAX": "044-854-0425",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031296.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5849,
+          35.57747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "159",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "馬絹保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "馬絹1364-7",
+        "TEL": "044-855-9322",
+        "FAX": "044-855-9322",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031303.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5959,
+          35.57994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "160",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "土橋保育園 ",
+        "Label": "",
+        "AgeS": "6週",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "土橋2-14-1",
+        "TEL": "044-855-2877",
+        "FAX": "044-855-2877",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031310.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5734,
+          35.58558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "161",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "みやざき保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "155",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "宮前平1-2-2",
+        "TEL": "044-855-7520",
+        "FAX": "044-855-7569",
+        "Owner": "社会福祉法人　種の会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031315.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5899,
+          35.58545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "162",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "宮前平保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "150",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "宮前平2-11-6",
+        "TEL": "044-854-4855",
+        "FAX": "044-870-0133",
+        "Owner": "川崎市・株式会社　日本保育サービス",
+        "Ownership": "公設民営",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031323.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5821,
+          35.58802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "163",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "野川南台保育園 ",
+        "Label": "",
+        "AgeS": "6ヶ月",
+        "AgeE": "就学前",
+        "Full": "70",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "野川2252-6",
+        "TEL": "044-740-1833",
+        "FAX": "044-740-3883",
+        "Owner": "社会福祉法人　星槎",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031332.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6087,
+          35.57098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "164",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "こどものいえもも保育園 ",
+        "Label": "",
+        "AgeS": "2ヶ月",
+        "AgeE": "就学前",
+        "Full": "150",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "馬絹1899-5",
+        "TEL": "044-860-2415",
+        "FAX": "044-860-4567",
+        "Owner": "社会福祉法人　すぎのこ福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031341.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.584,
+          35.58062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "165",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "もものか保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "45",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "馬絹1993-1",
+        "TEL": "044-860-2781",
+        "FAX": "044-866-2878",
+        "Owner": "特定非営利活動法人子ども未来じゅく",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031346.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5909,
+          35.58247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "166",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "さぎ沼なごみ保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "土橋3-1-6",
+        "TEL": "044-871-7531",
+        "FAX": "044-871-7539",
+        "Owner": "社会福祉法人なごみ福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031352.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5747,
+          35.58213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "167",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスクさぎぬま保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "鷺沼1-22-6",
+        "TEL": "044-860-2708",
+        "FAX": "044-861-6472",
+        "Owner": "株式会社 日本保育サービス",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031361.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5699,
+          35.57734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "168",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク宮前平えきまえ保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "70",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "宮前平1-12-5",
+        "TEL": "044-856-7911",
+        "FAX": "044-948-6212",
+        "Owner": "株式会社　日本保育サービス",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031363.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5832,
+          35.58511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "169",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ティンクル上野川保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "50",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "野川188",
+        "TEL": "044-752-2868",
+        "FAX": "044-752-2869",
+        "Owner": "社会福祉法人 星槎",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031367.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6101,
+          35.57686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "170",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "宮前平もりのこ保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "50",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "宮前平2-5-16",
+        "TEL": "044-865-2116",
+        "FAX": "044-865-2116",
+        "Owner": "株式会社　こどもの森",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031372.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.584,
+          35.58878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "171",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "小学館アカデミーさぎぬま保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "40",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "鷺沼1-23-7",
+        "TEL": "044-862-8721",
+        "FAX": "044-862-8722",
+        "Owner": "株式会社 小学館集英社プロダクション",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031378.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5706,
+          35.57621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "172",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ぶどうの実鷺沼園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "鷺沼2-7-23",
+        "TEL": "044-870-7171",
+        "FAX": "",
+        "Owner": "株式会社ぶどうの木",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031389.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5698,
+          35.57492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "173",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "小学館アカデミーみやまえだいら保育園",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "30",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "宮前平2-1-2",
+        "TEL": "044-862-8615",
+        "FAX": "",
+        "Owner": "株式会社小学館集英社プロダクション",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031393.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5816,
+          35.58993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "174",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "かわさき犬蔵保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育7:00-7:30,18:30-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "犬蔵2-4-29",
+        "TEL": "044-978-5080",
+        "FAX": "044-978-5081",
+        "Owner": "長谷川キッズライフ株式会社",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000068984.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5649,
+          35.58222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "175",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ナーサリールーム　ベリーベアー鷺沼 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育7:00-7:30,18:30-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "鷺沼3-5-2　MCビル1～3階",
+        "TEL": "044-948-7941",
+        "FAX": "044-861-2802",
+        "Owner": "株式会社ネス・コーポレーション",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000068853.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5716,
+          35.57848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "176",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "まなびの森保育園宮前平 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "土橋2-5-1",
+        "TEL": "044-855-5123",
+        "FAX": "",
+        "Owner": "株式会社 こどもの森",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000065201.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.577,
+          35.58472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "177",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "西有馬おひさま保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "130",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "有馬1-8-6",
+        "TEL": "044-855-2525",
+        "FAX": "044-855-2535",
+        "Owner": "社会福祉法人 寿会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000060269.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5786,
+          35.57881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "178",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "明日葉保育園鷺沼園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "鷺沼1-6-3",
+        "TEL": "044-982-9186",
+        "FAX": "044-982-9187",
+        "Owner": "葉隠勇進 株式会社",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000060137.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5755,
+          35.57615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "179",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "グリーンフォレスト神木保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "神木本町2-5-5",
+        "TEL": "044-871-7010",
+        "FAX": "044-871-7020",
+        "Owner": "社会福祉法人 ちとせ交友会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000060139.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5871,
+          35.60121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "180",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク宮崎台保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "宮前平1-1-15",
+        "TEL": "044-871-2108",
+        "FAX": "044-920-9550",
+        "Owner": "株式会社 日本保育サービス",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000060237.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5882,
+          35.58591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "181",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "たつのこのはら保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "240",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "土橋4-7-1",
+        "TEL": "044-920-9200",
+        "FAX": "044-920-9201",
+        "Owner": "社会福祉法人 大慈会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000050757.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5688,
+          35.58546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "182",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ティンクルくぬぎ坂保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "野川1483-1",
+        "TEL": "044-920-9611",
+        "FAX": "",
+        "Owner": "社会福祉法人 星槎",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000050759.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6076,
+          35.57341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "183",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "有馬川はなみずき保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市宮前区",
+        "Add2": "東有馬5-23-43",
+        "TEL": "044-870-3434",
+        "FAX": "044-870-3435",
+        "Owner": "社会福祉法人 子の神福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000048968.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5943,
+          35.57107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "184",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "生田保育園 ",
+        "Label": "",
+        "AgeS": "3歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "西生田3-15-10",
+        "TEL": "044-966-2502",
+        "FAX": "044-966-2502",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031410.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5291,
+          35.61227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "185",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "生田乳児保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "3歳",
+        "Full": "35",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "西生田3-15-10",
+        "TEL": "044-966-0276",
+        "FAX": "044-966-2502",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031421.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5291,
+          35.61227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "186",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "菅保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "95",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "菅1-5-24",
+        "TEL": "044-945-5109",
+        "FAX": "044-945-5109",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031428.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5365,
+          35.63279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "187",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "東中野島保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "中野島4-4-15",
+        "TEL": "044-922-8173",
+        "FAX": "044-922-8173",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031528.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5605,
+          35.6281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "188",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "土渕保育園 ",
+        "Label": "",
+        "AgeS": "6週",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "生田2-14-5",
+        "TEL": "044-933-8942",
+        "FAX": "044-933-8942",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031534.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5493,
+          35.62304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "189",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "南生田保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "南生田3-2-7",
+        "TEL": "044-954-7575",
+        "FAX": "044-954-7575",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031539.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5327,
+          35.6066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "190",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "保育園アリス宿河原 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "95",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "宿河原3-13-9",
+        "TEL": "044-455-5211",
+        "FAX": "044-455-5216",
+        "Owner": "社会福祉法人・アリス",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031547.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5795,
+          35.61374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "191",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "稲田保育園 ",
+        "Label": "",
+        "AgeS": "6ヶ月",
+        "AgeE": "就学前",
+        "Full": "150",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "登戸1416",
+        "TEL": "044-933-7335",
+        "FAX": "044-911-8960",
+        "Owner": "社会福祉法人 稲田福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031366.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5571,
+          35.62273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "192",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "厚生館愛児園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "菅稲田堤1-11-8",
+        "TEL": "044-944-4733",
+        "FAX": "044-944-5702",
+        "Owner": "厚生館福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031382.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5362,
+          35.63609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "193",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "龍厳寺保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "180",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "堰3-11-13",
+        "TEL": "044-811-0436",
+        "FAX": "044-811-2742",
+        "Owner": "社会福祉法人 大慈会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031395.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5944,
+          35.6119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "194",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ひばり保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "宿河原6-46-6",
+        "TEL": "044-811-1255",
+        "FAX": "044-811-2614",
+        "Owner": "社会福祉法人宿河原会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031467.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5902,
+          35.60918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "195",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "第二厚生館愛児園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "寺尾台1-1-19",
+        "TEL": "044-955-2933",
+        "FAX": "044-954-1067",
+        "Owner": "厚生館福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031404.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5322,
+          35.61715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "196",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "なごみ保育園 ",
+        "Label": "",
+        "AgeS": "産休明け",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "菅稲田堤3-9-2",
+        "TEL": "044-944-2082",
+        "FAX": "044-945-2570",
+        "Owner": "社会福祉法人なごみ福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031426.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.542,
+          35.63305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "197",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "星の子愛児園 ",
+        "Label": "",
+        "AgeS": "産休明け",
+        "AgeE": "就学前",
+        "Full": "150",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "菅稲田堤1-17-25",
+        "TEL": "044-944-8181",
+        "FAX": "044-944-1533",
+        "Owner": "厚生館福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031435.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.534,
+          35.63427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "198",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "なのはな保育園 ",
+        "Label": "",
+        "AgeS": "4ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "登戸2249-1",
+        "TEL": "044-930-1261",
+        "FAX": "044-934-1164",
+        "Owner": "社会福祉法人 川崎市社会福祉事業団",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031460.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5634,
+          35.62039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "199",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ひばりっこくらぶ保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "宿河原6-35-16",
+        "TEL": "044-844-7448",
+        "FAX": "044-844-7780",
+        "Owner": "社会福祉法人 宿河原会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031471.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5903,
+          35.60974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "200",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "太陽の子保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "150",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "栗谷2-16-14",
+        "TEL": "044-954-3906",
+        "FAX": "044-954-4657",
+        "Owner": "株式会社 ジャパンヒューマンヘルス",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031478.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5346,
+          35.60774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "201",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ハグミー・ナーサリー ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "100",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "中野島3-15-15",
+        "TEL": "044-935-6788",
+        "FAX": "044-935-6685",
+        "Owner": "株式会社 ハグミー",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031482.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5497,
+          35.62904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "202",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "そらまめ保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "30",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "宿河原1-1-40",
+        "TEL": "044-900-1527",
+        "FAX": "044-900-1572",
+        "Owner": "特定非営利活動法人 子ども未来じゅく",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031512.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5726,
+          35.62087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "203",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "にじいろ保育園登戸 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "登戸3329-6",
+        "TEL": "044-322-8041",
+        "FAX": "044-322-8047",
+        "Owner": "株式会社サクセスアカデミー",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031516.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5701,
+          35.62064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "204",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "うぃず宿河原保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "30",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "長尾4-1-2",
+        "TEL": "044-299-6846",
+        "FAX": "044-299-6849",
+        "Owner": "株式会社 WITH",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031519.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5765,
+          35.61158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "205",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ぶどうの実登戸園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "30",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "登戸新町187 スカイノート101",
+        "TEL": "044-931-3550",
+        "FAX": "044-931-3551",
+        "Owner": "株式会社 ぶどうの木",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031524.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5641,
+          35.62496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "206",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "のぼりっこ保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "30",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "登戸3185",
+        "TEL": "044-932-1558",
+        "FAX": "044-932-1558",
+        "Owner": "株式会社 こどもの森",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031533.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5723,
+          35.618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "207",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "至誠館なしのはな保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "70",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00月-金、土7:00-17:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "菅稲田堤1-10-5",
+        "TEL": "044-944-7451",
+        "FAX": "044-944-7437",
+        "Owner": "社会福祉法人 厚生館福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031541.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5355,
+          35.63537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "208",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "宿河原もりのこ保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "長尾1-11-6",
+        "TEL": "044-900-6080",
+        "FAX": "044-900-6080",
+        "Owner": "株式会社 こどもの森",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031554.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5743,
+          35.61184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "209",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク向ヶ丘遊園北保育園",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "登戸514-1",
+        "TEL": "044-922-2280",
+        "FAX": "044-922-2281",
+        "Owner": "株式会社 日本保育サービス",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031558.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.558,
+          35.62022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "210",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク向ヶ丘遊園南保育園",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "宿河原2-48-36",
+        "TEL": "044-930-0102",
+        "FAX": "044-935-6520",
+        "Owner": "株式会社 日本保育サービス",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031568.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5685,
+          35.61263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "211",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "うぃず稲田堤保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "30",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "菅馬場2-5-9",
+        "TEL": "044-712-7746",
+        "FAX": "044-712-0667",
+        "Owner": "株式会社 WITH",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031572.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5395,
+          35.62806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "212",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク宿河原保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "宿河原2-5-1",
+        "TEL": "044-934-1415",
+        "FAX": "",
+        "Owner": "株式会社日本保育サービス",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031577.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5762,
+          35.61589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "213",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "三田かしのみ保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "130",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "三田1-18-3",
+        "TEL": "044-932-2111",
+        "FAX": "044-932-2117",
+        "Owner": "社会福祉法人 かしのみ福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000059222.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5425,
+          35.61288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "214",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク生田保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "生田8-8-14",
+        "TEL": "044-911-7791",
+        "FAX": "044-712-3750",
+        "Owner": "株式会社 日本保育サービス",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000060142.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5453,
+          35.61579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "215",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "西しゅくマーノ保育園 ",
+        "Label": "",
+        "AgeS": "4ヶ月",
+        "AgeE": "就学前",
+        "Full": "130",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "宿河原2-19-6",
+        "TEL": "044-933-1152",
+        "FAX": "044-933-1151",
+        "Owner": "社会福祉法人 明真会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000048942.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5696,
+          35.61506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "216",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "小学館アカデミー西いくた保育園",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "西生田3-13-7",
+        "TEL": "044-969-7431",
+        "FAX": "044-969-7432",
+        "Owner": "株式会社 小学館集英社プロダクション",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000058792.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5271,
+          35.61201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "217",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "こひばり保育園 ",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "堰2-6-21",
+        "TEL": "044-819-5143",
+        "FAX": "044-819-5382",
+        "Owner": "社会福祉法人 宿河原会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000048915.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5942,
+          35.6139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "218",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "中野島フレンズ保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "布田18-25",
+        "TEL": "044-944-9288",
+        "FAX": "",
+        "Owner": "社会福祉法人 同塵会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000050760.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5459,
+          35.63214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "219",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "なかのしまのぞみ保育園 ",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市多摩区",
+        "Add2": "中野島4-20-23",
+        "TEL": "044-328-5971",
+        "FAX": "",
+        "Owner": "社会福祉法人 春献美会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000050762.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.558,
+          35.62792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "220",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "上麻生保育園",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "上麻生7-2-35",
+        "TEL": "044-988-8520",
+        "FAX": "044-988-8520",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.49771,
+          35.58285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "221",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "高石保育園",
+        "Label": "",
+        "AgeS": "4ヶ月",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "高石1-14-15",
+        "TEL": "044-954-5355",
+        "FAX": "044-954-5355",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51398,
+          35.61023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "222",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "虹ヶ丘保育園",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "虹ヶ丘2-2-20",
+        "TEL": "044-987-1771",
+        "FAX": "044-987-1771",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.52362,
+          35.58004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "223",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "下麻生保育園",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "王禅寺東5-3-53",
+        "TEL": "044-988-1030",
+        "FAX": "044-988-1030",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50894,
+          35.58404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "224",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "白山保育園",
+        "Label": "",
+        "AgeS": "6週",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:30",
+        "Close": "18:30",
+        "H24": "",
+        "Memo": "延長保育18:30-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "白山4-2-1",
+        "TEL": "044-987-7722",
+        "FAX": "044-987-7722",
+        "Owner": "川崎市",
+        "Ownership": "公",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51009,
+          35.59032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "225",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "白鳥保育園",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:30",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "白鳥1-17-2",
+        "TEL": "044-987-8206",
+        "FAX": "044-987-8206",
+        "Owner": "社会福祉法人　横浜悠久会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4893,
+          35.6025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "226",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "柿生保育園",
+        "Label": "",
+        "AgeS": "4ヶ月",
+        "AgeE": "就学前",
+        "Full": "150",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-19:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "上麻生5-23-1",
+        "TEL": "044-988-1453",
+        "FAX": "044-988-1492",
+        "Owner": "社会福祉法人　鈴保福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.49921,
+          35.59047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "227",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "すぎのこ保育園",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "70",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "岡上71-3",
+        "TEL": "044-988-3415",
+        "FAX": "044-987-8703",
+        "Owner": "社会福祉法人　すぎのこ福祉会 ",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.48592,
+          35.5839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "228",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "あさのみ保育園",
+        "Label": "",
+        "AgeS": "6週",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "上麻生3-22-14",
+        "TEL": "044-969-5403",
+        "FAX": "044-952-3021",
+        "Owner": "社会福祉法人　長寿福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50262,
+          35.60218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "229",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "保育園キディ百合丘",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "70",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "百合丘1-16　サンラフレ百合丘7-201",
+        "TEL": "044-322-0510",
+        "FAX": "044-322-0513",
+        "Owner": "（福）伸こう福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51576,
+          35.60571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "230",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "はるひ野保育園",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "110",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "はるひ野2-7-1",
+        "TEL": "044-281-8787",
+        "FAX": "044-281-8788",
+        "Owner": "社会福祉法人 春献美会（しゅんけんびかい）",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.46672,
+          35.6158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "231",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "小田急ムック新百合ヶ丘園",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "古沢43　コザワビル2階",
+        "TEL": "044-959-1169",
+        "FAX": "044-965-1769",
+        "Owner": "株式会社　小田急ライフアソシエ",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50145,
+          35.60261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "232",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "小学館アカデミー新ゆり山手保育園",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "万福寺4-19　プライムアリーナ新百合ヶ丘1・2階",
+        "TEL": "044-959-2156",
+        "FAX": "044-959-2157",
+        "Owner": "株式会社　小学館集英社プロダクション",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50635,
+          35.60735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "233",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "五月台ルミナス保育園",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "70",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "五力田3-18-3",
+        "TEL": "044-299-9111",
+        "FAX": "050-3728-3804",
+        "Owner": "株式会社　アイオル",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.49374,
+          35.60014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "234",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "至誠館ゆりがおか保育園",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "百合丘1-18-3",
+        "TEL": "044-966-5555",
+        "FAX": "",
+        "Owner": "社会福祉法人厚生館福祉会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.51562,
+          35.60763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "235",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "くろかわのぞみ保育園",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "120",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "はるひ野4-7-1",
+        "TEL": "044-819-7481",
+        "FAX": "",
+        "Owner": "社会福祉法人春献美会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.46294,
+          35.61736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "236",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク柿生保育園",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "上麻生5-40-4",
+        "TEL": "044-980-0750",
+        "FAX": "",
+        "Owner": "株式会社日本保育サービス",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.49663,
+          35.58964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "237",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "はじめの一歩保育園",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "90",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "上麻生7‐41‐5",
+        "TEL": "044-981-5105",
+        "FAX": "044-981-5106",
+        "Owner": "社会福祉法人　共遊の会",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50508,
+          35.57906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "238",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "麻生ゆりのき保育園",
+        "Label": "",
+        "AgeS": "5ヶ月",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "Y",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "千代ヶ丘1-17-2",
+        "TEL": "044-543-9041",
+        "FAX": "044-543-9042",
+        "Owner": "社会福祉法人 セイワ",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5081,
+          35.6092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "239",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "クレアナーサリー新百合ヶ丘",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "上麻生3-1-1",
+        "TEL": "044-322-9251",
+        "FAX": "044-322-9351",
+        "Owner": "株式会社　アルファコーポレーション",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50548,
+          35.60136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "240",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク新百合ヶ丘保育園",
+        "Label": "",
+        "AgeS": "1歳",
+        "AgeE": "就学前",
+        "Full": "60",
+        "Open": "7:00",
+        "Close": "18:00",
+        "H24": "",
+        "Memo": "延長保育18:00-20:00",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市麻生区",
+        "Add2": "古沢197-6",
+        "TEL": "044-969-5002",
+        "FAX": "044-712-3622",
+        "Owner": "株式会社 日本保育サービス",
+        "Ownership": "民",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50027,
+          35.60573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "242",
+        "Type": "おなかま保育室",
+        "Kodomo": "",
+        "Name": "おなかま保育室川中島",
+        "Label": "おなかま保育室川中島",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "大師駅前1-1-2",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7250935,
+          35.5336804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "244",
+        "Type": "川崎認定保育園",
+        "Kodomo": "",
+        "Name": "エンジェルキッズ川崎園",
+        "Label": "エンジェルキッズ川崎園",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "追分町2-2-201",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713503,
+          35.520771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "246",
+        "Type": "地域保育園",
+        "Kodomo": "",
+        "Name": "ミルキーホーム川崎園",
+        "Label": "ミルキーホーム川崎園",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区東田町2-10 ホワイトガーデン東田1F",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701893,
+          35.527773
+        ]
+      }
+    }
   ]
 }
