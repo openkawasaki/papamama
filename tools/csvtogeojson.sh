@@ -37,6 +37,7 @@ NAMES=(
 );
 
 
+rm -fr ${DIR}
 mkdir -p ${DIR}
 
 for (( I = 0; I < ${#GIDS[@]}; ++I ))
@@ -44,7 +45,6 @@ do
 	wget ${BASE}${GIDS[$I]} -O ${DIR}${NAMES[$I]}
 done
 
-rm -f ${DIR}
 for (( I = 0; I < ${#NAMES[@]}; ++I ))
 do
 	tail -n `wc -l ${DIR}${NAMES[$I]} | awk '{ print $1 }'` ${DIR}${NAMES[$I]} >> ${TEMP}
