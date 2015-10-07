@@ -70,6 +70,10 @@ do
 	HID=`expr $HID + 1`
 done
 
+if [ ! -f ${CMD} ];then
+	echo "csv2geojsonが存在しません。パスを修正してください。データはcsvディレクトリに格納済みです。";
+	exit -1;
+fi
 
 ${CMD} --lat Y --lon X  ${ALL} > ${GEOJSON} 2> ${LOG}
 if [ -s ${LOG} ];then
