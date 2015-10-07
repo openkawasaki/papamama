@@ -4,6 +4,435 @@
     {
       "type": "Feature",
       "properties": {
+        "HID": "1",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "大島保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区大島5-21-10",
+        "TEL": "044-222-7252",
+        "FAX": "044-222-7252",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.522696,
+          139.718755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "2",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "大島乳児保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区大島5-21-10",
+        "TEL": "044-211-0637",
+        "FAX": "044-222-7252",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.522696,
+          139.718755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "3",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "新町保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区渡田4-9-4",
+        "TEL": "044-333-8759",
+        "FAX": "044-333-8759",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.517568,
+          139.703303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "4",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "川崎乳児保育所 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区本町1-1-1",
+        "TEL": "044-222-2171",
+        "FAX": "044-222-8588",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5332,
+          139.701762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "5",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "夜間保育所あいいく ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区本町1-1-1",
+        "TEL": "044-222-2171",
+        "FAX": "044-222-7904",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5332,
+          139.701762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "6",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク川崎東口保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区小川町13-9",
+        "TEL": "044-233-5030",
+        "FAX": "044-200-7128",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.527462,
+          139.69831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "7",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "のぞみ保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区富士見1-6-10",
+        "TEL": "044-223-2229",
+        "FAX": "044-246-9111",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.530375,
+          139.708948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "8",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ゆめいく日進町保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区日進町20-3",
+        "TEL": "044-221-7035",
+        "FAX": "044-221-7036",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.524098,
+          139.695169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "9",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "あすいく保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区日進町22-14",
+        "TEL": "044-221-1015",
+        "FAX": "044-221-1018",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.524098,
+          139.696155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "10",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "京町いづみ保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区京町3-26-1",
+        "TEL": "044-322-3811",
+        "FAX": "044-322-3822",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50719,
+          139.696991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "11",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "川崎おおぞら保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区小川町11-9　大三コーポ1階",
+        "TEL": "044-200-9481",
+        "FAX": "044-200-9482",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.526656,
+          139.697088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "HID": "33",
         "Type": "認可保育所",
         "Kodomo": "",
