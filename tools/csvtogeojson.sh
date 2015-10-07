@@ -1,8 +1,19 @@
 #!/bin/bash
 
+# このスクリプトは、Google Docs上のデータをCSVでダウンロードし、
+# 結合、csv2geojsonでgeojsonに変換します。
+# 動作にはnode.jsおよびcsv2geojsonのインストールが必要です。
+# csv2geojsonのインストールは
+# https://github.com/openkawasaki/papamama/wiki/GeoJSON%E3%81%B8%E3%81%AE%E5%A4%89%E6%8F%9B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+# をご覧ください
+
+# csv2geojsonのパス（環境に合わせて修正してください）
+CMD="/Users/daijiro/Sites/csv2geojson/csv2geojson";
+
+
+# 以下は変更しないでください
 ID="1wcKzZPd8gFnORUynqZUF5WXzZilLE3wqbDF9MBJMMA4";
 BASE="https://docs.google.com/spreadsheets/d/${ID}/export?format=csv&id=${ID}&gid=";
-CMD="/Users/daijiro/Sites/csv2geojson/csv2geojson";
 GEOJSON="../data/nurseryFacilities.geojson";
 
 DIR=./csv/
