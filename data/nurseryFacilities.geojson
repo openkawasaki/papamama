@@ -433,6 +433,825 @@
     {
       "type": "Feature",
       "properties": {
+        "HID": "12",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "レイモンド川崎保育園 ",
+        "Label": "レイモンド川崎保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区東田町8　パレールビル3階",
+        "TEL": "044-201-1313",
+        "FAX": "044-201-1314",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "13",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "川崎もりのこ保育園 ",
+        "Label": "川崎もりのこ保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区日進町1-68 サンスクエア川崎8号棟 2階",
+        "TEL": "044-246-1815",
+        "FAX": "044-246-1815",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "14",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "藤崎保育園 ",
+        "Label": "藤崎保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区藤崎1-7-1",
+        "TEL": "044-211-1306",
+        "FAX": "044-211-1306",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "15",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "大師保育園 ",
+        "Label": "大師保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区出来野1-17",
+        "TEL": "044-266-7939",
+        "FAX": "044-266-7939",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "16",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "かわなかじま保育園 ",
+        "Label": "かわなかじま保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区藤崎2-19-2",
+        "TEL": "044-246-7510",
+        "FAX": "044-246-7509",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "17",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "東門前保育園 ",
+        "Label": "東門前保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区東門前1-8-2",
+        "TEL": "044-266-8984",
+        "FAX": "044-266-8986",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "18",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "中瀬新生保育園 ",
+        "Label": "中瀬新生保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区中瀬3-20-16",
+        "TEL": "044-280-1017",
+        "FAX": "044-280-1018",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "19",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "よつば保育園 ",
+        "Label": "よつば保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区四谷上町14-8",
+        "TEL": "044-288-4289",
+        "FAX": "044-270-3428",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "20",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク東門前保育園 ",
+        "Label": "アスク東門前保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区大師本町9-11-3F",
+        "TEL": "044-270-3412",
+        "FAX": "044-276-2432",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "21",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "渡田保育園 ",
+        "Label": "渡田保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区鋼管通1-11-4",
+        "TEL": "044-322-2226",
+        "FAX": "044-322-2226",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "22",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "小田保育園 ",
+        "Label": "小田保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区小田3-17-3",
+        "TEL": "044-333-6966",
+        "FAX": "044-333-6966",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "23",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "東小田保育園 ",
+        "Label": "東小田保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区小田5-14-1",
+        "TEL": "044-355-6620",
+        "FAX": "044-355-6620",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "24",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "聖美保育園 ",
+        "Label": "聖美保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区桜本2-41-11",
+        "TEL": "044-266-7227",
+        "FAX": "044-277-0215",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "25",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "あいせん保育園 ",
+        "Label": "あいせん保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区浜町2-22-16 ",
+        "TEL": "044-344-5365",
+        "FAX": "044-344-5365",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "26",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "桜本保育園 ",
+        "Label": "桜本保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区桜本1-9-6",
+        "TEL": "044-288-2545",
+        "FAX": "044-288-2546",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "27",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "西大島ルーテル保育園 ",
+        "Label": "西大島ルーテル保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区大島1-24-12",
+        "TEL": "044-280-6222",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "28",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ベネッセ川崎新町保育園",
+        "Label": "ベネッセ川崎新町保育園",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区小田栄2-3-2",
+        "TEL": "044-329-1281",
+        "FAX": "044-329-1282",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "29",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "かんのん町保育園 ",
+        "Label": "かんのん町保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎市川崎区観音1-10-3",
+        "TEL": "044-280-6226",
+        "FAX": "044-280-6227",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "30",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "だいしの里保育園 ",
+        "Label": "だいしの里保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区日ノ出1-16-11",
+        "TEL": "044-589-5281",
+        "FAX": "044-589-5282",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "31",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "出来野ルーテル保育園 ",
+        "Label": "出来野ルーテル保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区出来野6-7",
+        "TEL": "044-201-1146",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "32",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "京急キッズランド港町駅前保育園 ",
+        "Label": "京急キッズランド港町駅前保育園 ",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市川崎区",
+        "Add2": "川崎区港町5-4",
+        "TEL": "044-245-0231",
+        "FAX": "044-244-0232",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72658,
+          35.53214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "HID": "33",
         "Type": "認可保育所",
         "Kodomo": "",
@@ -3670,7 +4489,1489 @@
     {
       "type": "Feature",
       "properties": {
+        "HID": "116",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "蟹ヶ谷保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "蟹ヶ谷339",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030562.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63317,
+          35.567742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "117",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "野川保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "野川3906-4",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030706.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.614586,
+          35.566698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "118",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "西高津保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "溝口5-15-4",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030717.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.614298,
+          35.607469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "119",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "津田山保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "下作延5-1-10",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030731.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.602077,
+          35.602559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "120",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "上作延保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "向ヶ丘1-3",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030739.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.598059,
+          35.592972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "121",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "梶ヶ谷保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "梶ヶ谷5-8-2",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030774.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.606303,
+          35.583256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "122",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "下作延中央保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "下作延2-6-3",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030846.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60566,
+          35.600415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "123",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "坂戸保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "坂戸3-7-21",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030861.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.622917,
+          35.595352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "124",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "みぞのくち保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "溝口4-19-2",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030869.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.614825,
+          35.605053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "125",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "たちばな中央保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "千年1300",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030876.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620465,
+          35.584203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "126",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "くじ保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "久地3-16-1",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030880.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.605704,
+          35.608108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "127",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "二子保育園 ",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "二子5-14-56",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030890.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.61885,
+          35.601287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "128",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "パレット保育園・高津",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "二子2-13-5",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030896.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619311,
+          35.604414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "129",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "レッツ・びー梶ヶ谷保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "下作延2-35-1　スペースアメニティ梶ヶ谷1F",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030900.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.604008,
+          35.59503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "130",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "YMCAたかつ保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "溝口1-19-1",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030907.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.615501,
+          35.60072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "131",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "スターチャイルドKSPナーサリー",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "坂戸3-2-1　かながわサイエンスパーク内",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030913.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620725,
+          35.594141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "132",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アートチャイルドケア津田山",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "下作延6-6-21　アネックスK",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030921.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.601368,
+          35.603818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "133",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "このはな保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "久地1-19-8　ガーデンパレス2階",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030931.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.606843,
+          35.607908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "134",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク高津保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "溝口6-23-16",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030938.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.611426,
+          35.607128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "135",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "すこやか高津保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "二子5-1-5",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030944.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.616998,
+          35.602256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "136",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "レッツ・びー溝の口保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "溝口2-16-6",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030950.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.611632,
+          35.602179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "137",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "レッツ・びー久本保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "久本3-13-5",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000030859.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617928,
+          35.594138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "138",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク溝の口保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "下作延2-7-41",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031216.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.607027,
+          35.59954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "139",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスクかじがや保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "梶ヶ谷3-12-6",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031224.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.606475,
+          35.586922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "140",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "末長こぐま保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "末長1289-3",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031228.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620546,
+          35.589186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "141",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "うめのき保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "久地3-13-1",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031236.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.601138,
+          35.610372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "142",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "レッツ・びー千年保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "千年717",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031239.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627731,
+          35.578785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "143",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク武蔵新城保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "新作4-19-4",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031242.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621462,
+          35.586124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "144",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "アスク高津えきまえ保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "溝口3-8-17",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000031244.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.614752,
+          35.602887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "145",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "まなびの森保育園高津",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "高津区久地1-8-1",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000070585.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.610059,
+          35.606819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "146",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "溝の口もりのこ保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "坂戸1-552",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000065200.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618883,
+          35.599916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "147",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ベネッセ武蔵新城保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "新作6-5-1",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000048941.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624256,
+          35.585062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "148",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "小学館アカデミーむさししんじょう第2保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "末長1559-1",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000050735.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62711,
+          35.59255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "149",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "子母口わかば保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "子母口378",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000059750.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629501,
+          35.574344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "150",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "明日葉保育園武蔵新城園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "千年1026",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000059716.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626742,
+          35.583998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "151",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "すこやか溝口保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "溝口2-31",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000050753.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.608266,
+          35.604057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "152",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "ちとせ山ゆり保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "千年970",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000050751.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625242,
+          35.582526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "HID": "153",
+        "Type": "認可保育所",
+        "Kodomo": "",
+        "Name": "高津もりのこ保育園",
+        "Label": "",
+        "AgeS": "",
+        "AgeE": "",
+        "Full": "",
+        "Open": "",
+        "Close": "",
+        "H24": "",
+        "Memo": "",
+        "Extra": "",
+        "Temp": "",
+        "Holiday": "",
+        "Night": "",
+        "Add1": "川崎市高津区",
+        "Add2": "溝口3-9-4",
+        "TEL": "",
+        "FAX": "",
+        "Owner": "",
+        "Ownership": "",
+        "Proof": "",
+        "Shanai": "",
+        "url": "http://www.city.kawasaki.jp/259/page/0000050754.html",
+        "Vacancy": "",
+        "VacancyDate": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.61436,
+          35.60355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "HID": "154",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "向丘保育園 ",
@@ -3709,7 +6010,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "154",
+        "HID": "155",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "向丘乳児保育園 ",
@@ -3748,7 +6049,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "155",
+        "HID": "156",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "有馬保育園 ",
@@ -3787,7 +6088,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "156",
+        "HID": "157",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "菅生保育園 ",
@@ -3826,7 +6127,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "157",
+        "HID": "158",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "南菅生保育園 ",
@@ -3865,7 +6166,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "158",
+        "HID": "159",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "平保育園 ",
@@ -3904,7 +6205,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "159",
+        "HID": "160",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "中有馬保育園 ",
@@ -3943,7 +6244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "160",
+        "HID": "161",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "馬絹保育園 ",
@@ -3982,7 +6283,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "161",
+        "HID": "162",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "土橋保育園 ",
@@ -4021,7 +6322,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "162",
+        "HID": "163",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "みやざき保育園 ",
@@ -4060,7 +6361,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "163",
+        "HID": "164",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "宮前平保育園 ",
@@ -4099,7 +6400,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "164",
+        "HID": "165",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "野川南台保育園 ",
@@ -4138,7 +6439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "165",
+        "HID": "166",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "こどものいえもも保育園 ",
@@ -4177,7 +6478,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "166",
+        "HID": "167",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "もものか保育園 ",
@@ -4216,7 +6517,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "167",
+        "HID": "168",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "さぎ沼なごみ保育園 ",
@@ -4255,7 +6556,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "168",
+        "HID": "169",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "アスクさぎぬま保育園 ",
@@ -4294,7 +6595,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "169",
+        "HID": "170",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "アスク宮前平えきまえ保育園 ",
@@ -4333,7 +6634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "170",
+        "HID": "171",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "ティンクル上野川保育園 ",
@@ -4372,7 +6673,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "171",
+        "HID": "172",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "宮前平もりのこ保育園 ",
@@ -4411,7 +6712,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "172",
+        "HID": "173",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "小学館アカデミーさぎぬま保育園 ",
@@ -4450,7 +6751,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "173",
+        "HID": "174",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "ぶどうの実鷺沼園 ",
@@ -4489,7 +6790,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "174",
+        "HID": "175",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "小学館アカデミーみやまえだいら保育園",
@@ -4528,7 +6829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "175",
+        "HID": "176",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "かわさき犬蔵保育園 ",
@@ -4567,7 +6868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "176",
+        "HID": "177",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "ナーサリールーム　ベリーベアー鷺沼 ",
@@ -4606,7 +6907,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "177",
+        "HID": "178",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "まなびの森保育園宮前平 ",
@@ -4645,7 +6946,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "178",
+        "HID": "179",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "西有馬おひさま保育園 ",
@@ -4684,7 +6985,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "179",
+        "HID": "180",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "明日葉保育園鷺沼園 ",
@@ -4723,7 +7024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "180",
+        "HID": "181",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "グリーンフォレスト神木保育園 ",
@@ -4762,7 +7063,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "181",
+        "HID": "182",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "アスク宮崎台保育園 ",
@@ -4801,7 +7102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "182",
+        "HID": "183",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "たつのこのはら保育園 ",
@@ -4840,7 +7141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "183",
+        "HID": "184",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "ティンクルくぬぎ坂保育園 ",
@@ -4879,7 +7180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "184",
+        "HID": "185",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "有馬川はなみずき保育園 ",
@@ -4918,7 +7219,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "185",
+        "HID": "186",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "生田保育園 ",
@@ -4957,7 +7258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "186",
+        "HID": "187",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "生田乳児保育園 ",
@@ -4996,7 +7297,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "187",
+        "HID": "188",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "菅保育園 ",
@@ -5035,7 +7336,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "188",
+        "HID": "189",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "東中野島保育園 ",
@@ -5074,7 +7375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "189",
+        "HID": "190",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "土渕保育園 ",
@@ -5113,7 +7414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "190",
+        "HID": "191",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "南生田保育園 ",
@@ -5152,7 +7453,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "191",
+        "HID": "192",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "保育園アリス宿河原 ",
@@ -5191,7 +7492,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "192",
+        "HID": "193",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "稲田保育園 ",
@@ -5230,7 +7531,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "193",
+        "HID": "194",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "厚生館愛児園 ",
@@ -5269,7 +7570,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "194",
+        "HID": "195",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "龍厳寺保育園 ",
@@ -5308,7 +7609,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "195",
+        "HID": "196",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "ひばり保育園 ",
@@ -5347,7 +7648,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "196",
+        "HID": "197",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "第二厚生館愛児園 ",
@@ -5386,7 +7687,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "197",
+        "HID": "198",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "なごみ保育園 ",
@@ -5425,7 +7726,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "198",
+        "HID": "199",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "星の子愛児園 ",
@@ -5464,7 +7765,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "199",
+        "HID": "200",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "なのはな保育園 ",
@@ -5503,7 +7804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "200",
+        "HID": "201",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "ひばりっこくらぶ保育園 ",
@@ -5542,7 +7843,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "201",
+        "HID": "202",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "太陽の子保育園 ",
@@ -5581,7 +7882,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "202",
+        "HID": "203",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "ハグミー・ナーサリー ",
@@ -5620,7 +7921,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "203",
+        "HID": "204",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "そらまめ保育園 ",
@@ -5659,7 +7960,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "204",
+        "HID": "205",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "にじいろ保育園登戸 ",
@@ -5698,7 +7999,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "205",
+        "HID": "206",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "うぃず宿河原保育園 ",
@@ -5737,7 +8038,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "206",
+        "HID": "207",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "ぶどうの実登戸園 ",
@@ -5776,7 +8077,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "207",
+        "HID": "208",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "のぼりっこ保育園 ",
@@ -5815,7 +8116,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "208",
+        "HID": "209",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "至誠館なしのはな保育園 ",
@@ -5854,7 +8155,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "209",
+        "HID": "210",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "宿河原もりのこ保育園 ",
@@ -5893,7 +8194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "210",
+        "HID": "211",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "アスク向ヶ丘遊園北保育園",
@@ -5932,7 +8233,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "211",
+        "HID": "212",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "アスク向ヶ丘遊園南保育園",
@@ -5971,7 +8272,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "212",
+        "HID": "213",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "うぃず稲田堤保育園 ",
@@ -6010,7 +8311,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "213",
+        "HID": "214",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "アスク宿河原保育園 ",
@@ -6049,7 +8350,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "214",
+        "HID": "215",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "三田かしのみ保育園 ",
@@ -6088,7 +8389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "215",
+        "HID": "216",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "アスク生田保育園 ",
@@ -6127,7 +8428,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "216",
+        "HID": "217",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "西しゅくマーノ保育園 ",
@@ -6166,7 +8467,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "217",
+        "HID": "218",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "小学館アカデミー西いくた保育園",
@@ -6205,7 +8506,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "218",
+        "HID": "219",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "こひばり保育園 ",
@@ -6244,7 +8545,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "219",
+        "HID": "220",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "中野島フレンズ保育園 ",
@@ -6283,7 +8584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "220",
+        "HID": "221",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "なかのしまのぞみ保育園 ",
@@ -6322,7 +8623,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "221",
+        "HID": "222",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "上麻生保育園",
@@ -6361,7 +8662,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "222",
+        "HID": "223",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "高石保育園",
@@ -6400,7 +8701,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "223",
+        "HID": "224",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "虹ヶ丘保育園",
@@ -6439,7 +8740,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "224",
+        "HID": "225",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "下麻生保育園",
@@ -6478,7 +8779,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "225",
+        "HID": "226",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "白山保育園",
@@ -6517,7 +8818,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "226",
+        "HID": "227",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "白鳥保育園",
@@ -6556,7 +8857,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "227",
+        "HID": "228",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "柿生保育園",
@@ -6595,7 +8896,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "228",
+        "HID": "229",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "すぎのこ保育園",
@@ -6634,7 +8935,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "229",
+        "HID": "230",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "あさのみ保育園",
@@ -6673,7 +8974,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "230",
+        "HID": "231",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "保育園キディ百合丘",
@@ -6712,7 +9013,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "231",
+        "HID": "232",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "はるひ野保育園",
@@ -6751,7 +9052,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "232",
+        "HID": "233",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "小田急ムック新百合ヶ丘園",
@@ -6790,7 +9091,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "233",
+        "HID": "234",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "小学館アカデミー新ゆり山手保育園",
@@ -6829,7 +9130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "234",
+        "HID": "235",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "五月台ルミナス保育園",
@@ -6868,7 +9169,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "235",
+        "HID": "236",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "至誠館ゆりがおか保育園",
@@ -6907,7 +9208,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "236",
+        "HID": "237",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "くろかわのぞみ保育園",
@@ -6946,7 +9247,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "237",
+        "HID": "238",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "アスク柿生保育園",
@@ -6985,7 +9286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "238",
+        "HID": "239",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "はじめの一歩保育園",
@@ -7024,7 +9325,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "239",
+        "HID": "240",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "麻生ゆりのき保育園",
@@ -7063,7 +9364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "240",
+        "HID": "241",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "クレアナーサリー新百合ヶ丘",
@@ -7102,7 +9403,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "241",
+        "HID": "242",
         "Type": "認可保育所",
         "Kodomo": "",
         "Name": "アスク新百合ヶ丘保育園",
@@ -7180,7 +9481,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "245",
+        "HID": "244",
         "Type": "川崎認定保育園",
         "Kodomo": "",
         "Name": "エンジェルキッズ川崎園",
@@ -7219,7 +9520,7 @@
     {
       "type": "Feature",
       "properties": {
-        "HID": "247",
+        "HID": "245",
         "Type": "地域保育園",
         "Kodomo": "",
         "Name": "ミルキーホーム川崎園",
