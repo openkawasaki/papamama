@@ -209,8 +209,8 @@ function baseSchoolStyle(mojicolor, fillcolor) {
 
 		resolution = Math.floor(resolution * 1000);
 		var text = "";
-		if(feature.get('label') !== null) {
-			text = resolution < 12000 ? feature.get('label') : '';
+		if(feature.get('P29_005') !== null) {
+			text = resolution < 12000 ? feature.get('P29_005') : '';
 		}
 		if (text !== "") {
 			style.push(
