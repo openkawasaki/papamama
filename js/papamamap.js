@@ -426,8 +426,8 @@ Papamamap.prototype.getPopupContent = function(feature)
         content += '<th>監督基準</th>';
         content += '<td>';
         var proof = feature.get('証明') ? feature.get('証明') : feature.get('Proof');
-        if (proof !== undefined && proof !== null) {
-            content += '証明書発行済<a href="http://www.city.sapporo.jp/kodomo/kosodate/ninkagai_shisetsu.html" target="_blank">(詳細)</a>';
+        if (proof !== undefined && proof !== null && proof.length != 0) {
+            content += '<a href="http://www.city.kawasaki.jp/kurashi/category/17-2-21-0-0-0-0-0-0-0.html" target="_blank">保育園・幼稚園をさがす</a>';
         }
         content += '</td>';
         content += '</tr>';
@@ -437,11 +437,11 @@ Papamamap.prototype.getPopupContent = function(feature)
         content += '<th>欠員</th>';
         content += '<td>';
         var vacancy = feature.get('Vacancy') ? feature.get('Vacancy') : feature.get('Vacancy');
-        if (vacancy !== undefined && vacancy !== null) {
-            content += '<a href="http://www.city.sapporo.jp/kodomo/kosodate/l4_01.html" target="_blank">空きあり</a>';
+        if (vacancy !== undefined && vacancy !== null && vacancy.length != 0) {
+            content += '<a href="http://www.city.kawasaki.jp/kurashi/category/17-2-21-0-0-0-0-0-0-0.html" target="_blank">保育園・幼稚園をさがす</a>';
         }
         var vacancyDate = feature.get('VacancyDate');
-        if (vacancyDate !== undefined && vacancyDate !== null) {
+        if (vacancyDate !== undefined && vacancyDate !== null && vacancyDate.length != 0) {
             content += " (" + vacancyDate + ")";
         }
         content += '</td>';
