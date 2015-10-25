@@ -402,9 +402,16 @@ $('#mainPage').on('pageshow', function() {
 	{
 		papamamap.switchLayer($('#cbNinka').prop('id'), checkObj.ninka);
 		papamamap.switchLayer($('#cbNinkagai').prop('id'), checkObj.ninkagai);
+		papamamap.switchLayer($('#cbKawasakiNintei').prop('id'), checkObj.kawasakiNintei);
+		papamamap.switchLayer($('#cbOnakama').prop('id'), checkObj.onakama);
+		papamamap.switchLayer($('#cbChiiki').prop('id'), checkObj.chiiki);
 		papamamap.switchLayer($('#cbKindergarten').prop('id'), checkObj.kindergarten);
+
 		$('#cbNinka').prop('checked', checkObj.ninka).checkboxradio('refresh');
 		$('#cbNinkagai').prop('checked', checkObj.ninkagai).checkboxradio('refresh');
+		$('#cbKawasakiNintei').prop('checked', checkObj.kawasakiNintei).checkboxradio('refresh');
+		$('#cbOnakama').prop('checked', checkObj.onakama).checkboxradio('refresh');
+		$('#cbChiiki').prop('checked', checkObj.chiiki).checkboxradio('refresh');
 		$('#cbKindergarten').prop('checked', checkObj.kindergarten).checkboxradio('refresh');
 	}
 
