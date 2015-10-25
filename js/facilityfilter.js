@@ -34,6 +34,33 @@ FacilityFilter.prototype.getFilteredFeaturesGeoJson = function (conditions, nurs
         });
     Array.prototype.push.apply(ninkagaiFeatures, _features);
 
+    // 川崎認定保育園の検索元データを取得
+    var ninteiFeatures = [];
+    _features = nurseryFacilities.features.filter(function (item,idx) {
+            var type = item.properties['種別'] ? item.properties['種別'] : item.properties['Type'];
+            if(type == "川崎認定保育園") return true;
+        });
+    Array.prototype.push.apply(ninteiFeatures, _features);
+
+    // おなかま保育室の検索元データを取得
+    var onakamaFeatures = [];
+    _features = nurseryFacilities.features.filter(function (item,idx) {
+            var type = item.properties['種別'] ? item.properties['種別'] : item.properties['Type'];
+            if(type == "おなかま保育室") return true;
+        });
+    Array.prototype.push.apply(onakamaFeatures, _features);
+
+    // 地域保育園の検索元データを取得
+    var chiikiFeatures = [];
+    _features = nurseryFacilities.features.filter(function (item,idx) {
+            var type = item.properties['種別'] ? item.properties['種別'] : item.properties['Type'];
+            if(type == "地域保育園") return true;
+        });
+    Array.prototype.push.apply(chiikiFeatures, _features);
+
+
+
+
     // 幼稚園の検索元データを取得
     var youchienFeatures = [];
     _features = nurseryFacilities.features.filter(function (item,idx) {
