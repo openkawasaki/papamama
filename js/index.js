@@ -310,6 +310,7 @@ $('#mainPage').on('pageshow', function() {
 		// 条件作成処理
 		conditions = [];
 		ninka = ninkagai = kindergarten = false;
+		kawasakiNintei = onakama = chiiki = false;
 
 		// 認可保育園
 		if($('#ninkaOpenTime option:selected').val() !== "") {
@@ -355,6 +356,31 @@ $('#mainPage').on('pageshow', function() {
 			ninkagai = true;
 		}
 
+		// 川崎認定保育園
+		var _key = ['kawasakiNinteiIchijiHoiku', 'kawasakiNinteiYakan', 'kawasakiNinteiKyujitu'];
+		for (var i = 0, len = _key.length; i < len; i++) {
+			if($('#' + _key[i]).prop('checked')) {
+				conditions[_key[i]] = 1;
+				kawasakiNintei = true;
+			}
+		}
+		// おなかま保育室
+		_key = ['onakamaIchijiHoiku', 'onakamaYakan', 'onakamaKyujitu'];
+		for (i = 0, len = _key.length; i < len; i++) {
+			if($('#' + _key[i]).prop('checked')) {
+				conditions[_key[i]] = 1;
+				onakama = true;
+			}
+		}
+		// 地域保育園
+		_key = ['chiikiIchijiHoiku', 'chiikiYakan', 'chiikiKyujitu'];
+		for (i = 0, len = _key.length; i < len; i++) {
+			if($('#' + _key[i]).prop('checked')) {
+				conditions[_key[i]] = 1;
+				chiiki = true;
+			}
+		}
+
 		// 幼稚園
 
 		// フィルター適用時
@@ -366,11 +392,11 @@ $('#mainPage').on('pageshow', function() {
 		} else {
 			papamamap.addNurseryFacilitiesLayer(nurseryFacilities);
 			$('#btnFilter').css('background-color', '#f6f6f6');
-			ninka = ninkagai = kindergarten = true;
+			ninka = ninkagai = kindergarten = kawasakiNintei = onakama = chiiki = true;
 		}
 
 		// レイヤー表示状態によって施設の表示を切り替える
-		updateLayerStatus({ninka: ninka, ninkagai: ninkagai, kindergarten: kindergarten});
+		updateLayerStatus({ninka: ninka, ninkagai: ninkagai, kindergarten: kindergarten, kawasakiNintei: kawasakiNintei, onakama: onakama, chiiki: chiiki});
 	});
 
 	// 絞込条件のリセット
@@ -389,7 +415,7 @@ $('#mainPage').on('pageshow', function() {
 		$('#btnFilter').css('background-color', '#f6f6f6');
 
 		// レイヤー表示状態によって施設の表示を切り替える
-		updateLayerStatus({ninka: true, ninkagai: true, kindergarten: true});
+		updateLayerStatus({ninka: true, ninkagai: true, kindergarten: true, kawasakiNintei: true, onakama: true, chiiki: true});
 	});
 
 	/**
@@ -402,9 +428,16 @@ $('#mainPage').on('pageshow', function() {
 	{
 		papamamap.switchLayer($('#cbNinka').prop('id'), checkObj.ninka);
 		papamamap.switchLayer($('#cbNinkagai').prop('id'), checkObj.ninkagai);
+		papamamap.switchLayer($('#cbKawasakiNintei').prop('id'), checkObj.kawasakiNintei);
+		papamamap.switchLayer($('#cbOnakama').prop('id'), checkObj.onakama);
+		papamamap.switchLayer($('#cbChiiki').prop('id'), checkObj.chiiki);
 		papamamap.switchLayer($('#cbKindergarten').prop('id'), checkObj.kindergarten);
+
 		$('#cbNinka').prop('checked', checkObj.ninka).checkboxradio('refresh');
 		$('#cbNinkagai').prop('checked', checkObj.ninkagai).checkboxradio('refresh');
+		$('#cbKawasakiNintei').prop('checked', checkObj.kawasakiNintei).checkboxradio('refresh');
+		$('#cbOnakama').prop('checked', checkObj.onakama).checkboxradio('refresh');
+		$('#cbChiiki').prop('checked', checkObj.chiiki).checkboxradio('refresh');
 		$('#cbKindergarten').prop('checked', checkObj.kindergarten).checkboxradio('refresh');
 	}
 

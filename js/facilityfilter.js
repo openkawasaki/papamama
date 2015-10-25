@@ -34,6 +34,33 @@ FacilityFilter.prototype.getFilteredFeaturesGeoJson = function (conditions, nurs
         });
     Array.prototype.push.apply(ninkagaiFeatures, _features);
 
+    // 川崎認定保育園の検索元データを取得
+    var ninteiFeatures = [];
+    _features = nurseryFacilities.features.filter(function (item,idx) {
+            var type = item.properties['種別'] ? item.properties['種別'] : item.properties['Type'];
+            if(type == "川崎認定保育園") return true;
+        });
+    Array.prototype.push.apply(ninteiFeatures, _features);
+
+    // おなかま保育室の検索元データを取得
+    var onakamaFeatures = [];
+    _features = nurseryFacilities.features.filter(function (item,idx) {
+            var type = item.properties['種別'] ? item.properties['種別'] : item.properties['Type'];
+            if(type == "おなかま保育室") return true;
+        });
+    Array.prototype.push.apply(onakamaFeatures, _features);
+
+    // 地域保育園の検索元データを取得
+    var chiikiFeatures = [];
+    _features = nurseryFacilities.features.filter(function (item,idx) {
+            var type = item.properties['種別'] ? item.properties['種別'] : item.properties['Type'];
+            if(type == "地域保育園") return true;
+        });
+    Array.prototype.push.apply(chiikiFeatures, _features);
+
+
+
+
     // 幼稚園の検索元データを取得
     var youchienFeatures = [];
     _features = nurseryFacilities.features.filter(function (item,idx) {
@@ -203,6 +230,111 @@ FacilityFilter.prototype.getFilteredFeaturesGeoJson = function (conditions, nurs
         ninkagaiFeatures = ninkagaiFeatures.filter(filterfunc);
     }
     // console.log("[after]ninkagaiFeatures length:", ninkagaiFeatures.length);
+
+    // ----------------------------------------------------------------------
+    // 川崎認定保育園向けフィルター
+    // ----------------------------------------------------------------------
+    // 川崎認定保育園：一時
+    if(conditions['kawasakiNinteiIchijiHoiku']) {
+        filterfunc = function (item,idx) {
+            var temp = item.properties['一時'] ? item.properties['一時'] : item.properties['Temp'];
+            if(temp !== null) {
+                return true;
+            }
+        };
+        ninteiFeatures = ninteiFeatures.filter(filterfunc);
+    }
+    // 川崎認定保育園：夜間
+    if(conditions['kawasakiNinteiYakan']) {
+        filterfunc = function (item,idx) {
+            var night = item.properties['夜間'] ? item.properties['夜間'] : item.properties['Night'];
+            if(night !== null) {
+                return true;
+            }
+        };
+        ninteiFeatures = ninteiFeatures.filter(filterfunc);
+    }
+    // 川崎認定保育園：休日
+    if(conditions['kawasakiNinteiKyujitu']) {
+        filterfunc = function (item,idx) {
+            var holiday = item.properties['休日'] ? item.properties['休日'] : item.properties['Holiday'];
+            if(holiday !== null) {
+                return true;
+            }
+        };
+        ninteiFeatures = ninteiFeatures.filter(filterfunc);
+    }
+
+
+    // ----------------------------------------------------------------------
+    // おなかま保育室向けフィルター
+    // ----------------------------------------------------------------------
+    // おなかま保育室：一時
+    if(conditions['onakamaIchijiHoiku']) {
+        filterfunc = function (item,idx) {
+            var temp = item.properties['一時'] ? item.properties['一時'] : item.properties['Temp'];
+            if(temp !== null) {
+                return true;
+            }
+        };
+        onakamaFeatures = onakamaFeatures.filter(filterfunc);
+    }
+    // おなかま保育室：夜間
+    if(conditions['onakamaYakan']) {
+        filterfunc = function (item,idx) {
+            var night = item.properties['夜間'] ? item.properties['夜間'] : item.properties['Night'];
+            if(night !== null) {
+                return true;
+            }
+        };
+        onakamaFeatures = onakamaFeatures.filter(filterfunc);
+    }
+    // おなかま保育室：休日
+    if(conditions['onakamaKyujitu']) {
+        filterfunc = function (item,idx) {
+            var holiday = item.properties['休日'] ? item.properties['休日'] : item.properties['Holiday'];
+            if(holiday !== null) {
+                return true;
+            }
+        };
+        onakamaFeatures = onakamaFeatures.filter(filterfunc);
+    }
+
+
+    // ----------------------------------------------------------------------
+    // 地域保育園向けフィルター
+    // ----------------------------------------------------------------------
+    // 地域保育園：一時
+    if(conditions['chiikiIchijiHoiku']) {
+        filterfunc = function (item,idx) {
+            var temp = item.properties['一時'] ? item.properties['一時'] : item.properties['Temp'];
+            if(temp !== null) {
+                return true;
+            }
+        };
+        chiikiFeatures = chiikiFeatures.filter(filterfunc);
+    }
+    // 地域保育園：夜間
+    if(conditions['chiikiYakan']) {
+        filterfunc = function (item,idx) {
+            var night = item.properties['夜間'] ? item.properties['夜間'] : item.properties['Night'];
+            if(night !== null) {
+                return true;
+            }
+        };
+        chiikiFeatures = chiikiFeatures.filter(filterfunc);
+    }
+    // 地域保育園：休日
+    if(conditions['chiikiKyujitu']) {
+        filterfunc = function (item,idx) {
+            var holiday = item.properties['休日'] ? item.properties['休日'] : item.properties['Holiday'];
+            if(holiday !== null) {
+                return true;
+            }
+        };
+        chiikiFeatures = chiikiFeatures.filter(filterfunc);
+    }
+
 
     // ----------------------------------------------------------------------
     // 幼稚園向けフィルター

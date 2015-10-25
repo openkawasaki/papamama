@@ -31,6 +31,15 @@
 #lblNinkagai.ui-checkbox-on {
 	background-color: #0362A0;
 }
+#lblKawasakiNintei.ui-checkbox-on {
+	background-color: #00D0FF;
+}
+#lblOnakama.ui-checkbox-on {
+	background-color: #CC00FF;
+}
+#lblChiiki.ui-checkbox-on {
+	background-color: #999999;
+}
 
 #lblKindergarten.ui-checkbox-on {
 	background-color: #FF5C24;
