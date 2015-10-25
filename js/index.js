@@ -310,7 +310,7 @@ $('#mainPage').on('pageshow', function() {
 		// 条件作成処理
 		conditions = [];
 		ninka = ninkagai = kindergarten = false;
-		kawasakiNintei = onakama = chiiki = true;
+		kawasakiNintei = onakama = chiiki = false;
 
 		// 認可保育園
 		if($('#ninkaOpenTime option:selected').val() !== "") {
@@ -356,6 +356,29 @@ $('#mainPage').on('pageshow', function() {
 			ninkagai = true;
 		}
 
+		// 川崎認定保育園
+		var _key = ['kawasakiNinteiIchijiHoiku', 'kawasakiNinteiYakan', 'kawasakiNinteiKyujitu'];
+		for (var i = 0, len = _key.length; i < len; i++) {
+			if($('#' + _key[i]).prop('checked')) {
+				conditions[_key[i]] = 1;
+				kawasakiNintei = true;
+			}
+		}
+		// おなかま保育室
+		for (i = 0, len = _key.length; i < len; i++) {
+			if($('#' + _key[i]).prop('checked')) {
+				conditions[_key[i]] = 1;
+				onakama = true;
+			}
+		}
+		// 地域保育園
+		for (i = 0, len = _key.length; i < len; i++) {
+			if($('#' + _key[i]).prop('checked')) {
+				conditions[_key[i]] = 1;
+				chiiki = true;
+			}
+		}
+
 		// 幼稚園
 
 		// フィルター適用時
@@ -367,7 +390,7 @@ $('#mainPage').on('pageshow', function() {
 		} else {
 			papamamap.addNurseryFacilitiesLayer(nurseryFacilities);
 			$('#btnFilter').css('background-color', '#f6f6f6');
-			ninka = ninkagai = kindergarten = true;
+			ninka = ninkagai = kindergarten = kawasakiNintei = onakama = chiiki = true;
 		}
 
 		// レイヤー表示状態によって施設の表示を切り替える
