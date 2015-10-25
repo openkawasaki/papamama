@@ -232,6 +232,111 @@ FacilityFilter.prototype.getFilteredFeaturesGeoJson = function (conditions, nurs
     // console.log("[after]ninkagaiFeatures length:", ninkagaiFeatures.length);
 
     // ----------------------------------------------------------------------
+    // 川崎認定保育園向けフィルター
+    // ----------------------------------------------------------------------
+    // 川崎認定保育園：一時
+    if(conditions['kawasakiNinteiIchijiHoiku']) {
+        filterfunc = function (item,idx) {
+            var temp = item.properties['一時'] ? item.properties['一時'] : item.properties['Temp'];
+            if(temp !== null) {
+                return true;
+            }
+        };
+        ninteiFeatures = ninteiFeatures.filter(filterfunc);
+    }
+    // 川崎認定保育園：夜間
+    if(conditions['kawasakiNinteiYakan']) {
+        filterfunc = function (item,idx) {
+            var night = item.properties['夜間'] ? item.properties['夜間'] : item.properties['Night'];
+            if(night !== null) {
+                return true;
+            }
+        };
+        ninteiFeatures = ninteiFeatures.filter(filterfunc);
+    }
+    // 川崎認定保育園：休日
+    if(conditions['kawasakiNinteiKyujitu']) {
+        filterfunc = function (item,idx) {
+            var holiday = item.properties['休日'] ? item.properties['休日'] : item.properties['Holiday'];
+            if(holiday !== null) {
+                return true;
+            }
+        };
+        ninteiFeatures = ninteiFeatures.filter(filterfunc);
+    }
+
+
+    // ----------------------------------------------------------------------
+    // おなかま保育室向けフィルター
+    // ----------------------------------------------------------------------
+    // おなかま保育室：一時
+    if(conditions['onakamaIchijiHoiku']) {
+        filterfunc = function (item,idx) {
+            var temp = item.properties['一時'] ? item.properties['一時'] : item.properties['Temp'];
+            if(temp !== null) {
+                return true;
+            }
+        };
+        onakamaFeatures = onakamaFeatures.filter(filterfunc);
+    }
+    // おなかま保育室：夜間
+    if(conditions['onakamaYakan']) {
+        filterfunc = function (item,idx) {
+            var night = item.properties['夜間'] ? item.properties['夜間'] : item.properties['Night'];
+            if(night !== null) {
+                return true;
+            }
+        };
+        onakamaFeatures = onakamaFeatures.filter(filterfunc);
+    }
+    // おなかま保育室：休日
+    if(conditions['onakamaKyujitu']) {
+        filterfunc = function (item,idx) {
+            var holiday = item.properties['休日'] ? item.properties['休日'] : item.properties['Holiday'];
+            if(holiday !== null) {
+                return true;
+            }
+        };
+        onakamaFeatures = onakamaFeatures.filter(filterfunc);
+    }
+
+
+    // ----------------------------------------------------------------------
+    // 地域保育園向けフィルター
+    // ----------------------------------------------------------------------
+    // 地域保育園：一時
+    if(conditions['chiikiIchijiHoiku']) {
+        filterfunc = function (item,idx) {
+            var temp = item.properties['一時'] ? item.properties['一時'] : item.properties['Temp'];
+            if(temp !== null) {
+                return true;
+            }
+        };
+        chiikiFeatures = chiikiFeatures.filter(filterfunc);
+    }
+    // 地域保育園：夜間
+    if(conditions['chiikiYakan']) {
+        filterfunc = function (item,idx) {
+            var night = item.properties['夜間'] ? item.properties['夜間'] : item.properties['Night'];
+            if(night !== null) {
+                return true;
+            }
+        };
+        chiikiFeatures = chiikiFeatures.filter(filterfunc);
+    }
+    // 地域保育園：休日
+    if(conditions['chiikiKyujitu']) {
+        filterfunc = function (item,idx) {
+            var holiday = item.properties['休日'] ? item.properties['休日'] : item.properties['Holiday'];
+            if(holiday !== null) {
+                return true;
+            }
+        };
+        chiikiFeatures = chiikiFeatures.filter(filterfunc);
+    }
+
+
+    // ----------------------------------------------------------------------
     // 幼稚園向けフィルター
     // ----------------------------------------------------------------------
     // まだ用意しない
