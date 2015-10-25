@@ -310,6 +310,7 @@ $('#mainPage').on('pageshow', function() {
 		// 条件作成処理
 		conditions = [];
 		ninka = ninkagai = kindergarten = false;
+		kawasakiNintei = onakama = chiiki = true;
 
 		// 認可保育園
 		if($('#ninkaOpenTime option:selected').val() !== "") {
@@ -370,7 +371,7 @@ $('#mainPage').on('pageshow', function() {
 		}
 
 		// レイヤー表示状態によって施設の表示を切り替える
-		updateLayerStatus({ninka: ninka, ninkagai: ninkagai, kindergarten: kindergarten});
+		updateLayerStatus({ninka: ninka, ninkagai: ninkagai, kindergarten: kindergarten, kawasakiNintei: kawasakiNintei, onakama: onakama, chiiki: chiiki});
 	});
 
 	// 絞込条件のリセット
@@ -389,7 +390,7 @@ $('#mainPage').on('pageshow', function() {
 		$('#btnFilter').css('background-color', '#f6f6f6');
 
 		// レイヤー表示状態によって施設の表示を切り替える
-		updateLayerStatus({ninka: true, ninkagai: true, kindergarten: true});
+		updateLayerStatus({ninka: true, ninkagai: true, kindergarten: true, kawasakiNintei: true, onakama: true, chiiki: true});
 	});
 
 	/**
