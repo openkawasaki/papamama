@@ -365,6 +365,7 @@ $('#mainPage').on('pageshow', function() {
 			}
 		}
 		// おなかま保育室
+		_key = ['onakamaIchijiHoiku', 'onakamaYakan', 'onakamaKyujitu'];
 		for (i = 0, len = _key.length; i < len; i++) {
 			if($('#' + _key[i]).prop('checked')) {
 				conditions[_key[i]] = 1;
@@ -372,6 +373,7 @@ $('#mainPage').on('pageshow', function() {
 			}
 		}
 		// 地域保育園
+		_key = ['chiikiIchijiHoiku', 'chiikiYakan', 'chiikiKyujitu'];
 		for (i = 0, len = _key.length; i < len; i++) {
 			if($('#' + _key[i]).prop('checked')) {
 				conditions[_key[i]] = 1;
